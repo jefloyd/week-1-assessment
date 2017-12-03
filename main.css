@@ -1,0 +1,52 @@
+
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+header{
+		background-image: url(./images/bgtile.png);
+		background: linear-gradient(#52799d,#396287);
+		width: 100%;
+		height: 40vh;
+	
+}
+
+h1{
+	color:#3a6790;
+	font-size: 30px;
+}
+
+button{
+	color: white;
+	background-color:#5494c7;
+	height: 35px;
+	width: 70px;
+	float: right;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+li {
+    display: inline;
+    color:#3a6790;
+}
+
+#copyright{
+	color: gray;
+}
+.about{
+	font-size: 14px;
+}
+
+#main{
+	background: solid white;
+	display: inline;
+	float: right;
+	margin: 20px;
+	padding: 30px;
+}
