@@ -29,6 +29,8 @@ header{
 		position:relative;
 		/*z-index: -1;*/
 }
+
+
 .logo{
 	float: right;
 	margin-top:90px;
@@ -38,6 +40,7 @@ header{
 	display: flex;
 
 }
+
 
 .button{
 	color: white;
@@ -85,6 +88,7 @@ li {
 	font-size: 14px;
 }
 
+/*main div with text - has shadow box effect*/
 #main{
 	background: white;
 	position: relative;
