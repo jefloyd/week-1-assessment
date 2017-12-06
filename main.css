@@ -124,6 +124,7 @@ footer{
   
 }
 
+/*make sure that copyright link has different color (light gray) from other links*/
 #copyright{
 	color: gray;
 }
